@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ProxyAngel
-- 👀 I’m interested in taking my skills to the next level.
-- 🌱 I’m currently learning Word Press at Nossi College of Art.
-- 💞️ I’m looking to collaborate on anything from layout design to merchandise design.
-- 📫 How to reach me: kthaxton@nossi.edu
+- 👀 I’m interested in taking my skills to the next level, currently working on my bachelor's degree.
+- 🌱 I’m currently learning WordPress at Nossi College of Art.
+- 💞️ I’m looking to collaborate on anything with production art to merchandise design involved.
+- 📫 How to reach me: proxyangel.graphicdesign@gmail.com
 
 <!---
 ProxyAngel/ProxyAngel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
